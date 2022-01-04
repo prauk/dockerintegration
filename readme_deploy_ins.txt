@@ -1,1 +1,1 @@
-Read the instructions
+Read the instructions before deploy the code
